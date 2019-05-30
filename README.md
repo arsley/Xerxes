@@ -1,3 +1,6 @@
+**NOTE:**
+This repository is added improved Dockerfile to setup attack environment on Docker(Ubuntu).
+
 <img align="left" width="100" height="100" src="img/XerxesTheGreat.jpg">
 
 # Xerxes
